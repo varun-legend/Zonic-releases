@@ -1,0 +1,56 @@
+# LICENSE.txt
+
+ZONIC PROPRIETARY LICENSE
+Effective Date: October 17, 2025
+
+Copyright (c) 2025 Varun Prasath (varun-legend). All rights reserved.
+
+1.  DEFINITIONS
+    1.1 "Software" means the Zonic application (a.k.a. "WebVPlayer") and any associated documentation, installers, updates, or components provided by Licensor.
+    1.2 "Licensor" means Varun Prasath (varun-legend).
+    1.3 "Licensee" means the natural person or legal entity that downloads, installs, or uses the Software.
+
+2.  GRANT OF LICENSE
+    Subject to the terms of this License, Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to:
+    - download, install, and execute the Software on devices owned or controlled by Licensee,
+    solely for personal use, and solely in object-code (binary) form distributed via the Licensor's release assets.
+
+3.  PROHIBITED ACTIONS
+    Licensee may NOT, and agrees not to:
+    a) reproduce, copy, distribute, publish, or sublicense the Software or any portion thereof;
+    b) modify, translate, adapt, merge, alter, or create derivative works of the Software;
+    c) reverse engineer, decompile, disassemble, or attempt to extract the source code of the Software (except to the extent such restriction is expressly prohibited by applicable law);
+    d) remove, alter, or obscure any proprietary notices, labels, or marks on the Software;
+    e) circumvent, disable, or otherwise interfere with any technical protection measures of the Software;
+    f) use the Software to offer a service to third parties that would effectively redistribute the Software (including rehosting, repackaging, or bundling the Software for others);
+    g) transfer or assign this License or the Software to any third party.
+
+4.  OWNERSHIP
+    The Software and all intellectual property rights therein remain the exclusive property of Licensor. This License does not convey any ownership rights to Licensee.
+
+5.  UPDATES & SUPPORT
+    Licensor may, at its sole discretion, provide updates, patches, or support. Licensor is not obliged to provide any updates or support.
+
+6.  TERMINATION
+    This License is effective until terminated. Licensor may terminate this License immediately if Licensee fails to comply with any term. Upon termination, Licensee must cease all use of the Software and delete all copies in Licensee's possession or control.
+
+7.  DISCLAIMER OF WARRANTY
+    THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR MAKES NO WARRANTY THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR THAT OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+8.  LIMITATION OF LIABILITY
+    IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR THE USE OF THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S AGGREGATE LIABILITY FOR ANY CLAIM ARISING FROM OR RELATING TO THIS LICENSE OR THE SOFTWARE SHALL NOT EXCEED THE AMOUNT PAID (IF ANY) BY LICENSEE TO LICENSOR FOR THE SOFTWARE.
+
+9.  EXPORT CONTROLS
+    Licensee shall comply with all applicable export and import laws and regulations. Licensee shall not export or re-export the Software in violation of applicable laws.
+
+10. GOVERNING LAW
+    This License is governed by and construed in accordance with the laws of India. Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts in India.
+
+11. COMMERCIAL OR ALTERNATIVE LICENSES
+    If you require redistribution rights, source access, OEM packaging, or a commercial license, please contact the Licensor (`varun-legend`) to discuss licensing options.
+
+12. CONTACT
+    Licensor: Varun Prasath (varun-legend)
+    Repository / Releases: (this repository’s releases page)
+
+END OF LICENSE
