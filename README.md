@@ -31,7 +31,7 @@ Zonic is a lightweight, streaming-first music player for Android — fast, focus
 - **Playlist functionality and UI:** The playlist functionality and ui remains minimal because of its complexity It will be better in future
 ---
 
-## 🛠 Roadmap ( to be done by varunlegend in future)
+## 🛠 Roadmap ( to be done by varun-legend in future)
 - Improve fetch logic for large remote folders.  
 - Queue / playlist functionality.  
 - UI resilience & notification-state consistency improvements.  
@@ -65,7 +65,7 @@ This repository provides **release binaries only**. The full source code is **no
 
 ## 🐛 Report issues / Contact
 - Report bugs via the Releases page or open an issue on the project’s public issue tracker (if available).  
-- Built by **Varun Prasath (varunlegend)** — reach out on GitHub: `varun-legend`.
+- Built by **Varun Prasath (varun-legend)** — reach out on GitHub: `varun-legend`.
 
 ---
 
